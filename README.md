@@ -19,13 +19,12 @@
 Anthropic AI! Build AI-powered solutions.</i></p>
 
 ---
-## Welcome to the Anthropic XAI Components Library
+## Xircuits Component Library for Anthropic
 
 This library allows Xircuits to use Anthropic's models for direct AI interactions. It manages API keys and simplifies executing custom text generation tasks.
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
 - [Preview](#preview)
   - [The Example](#the-example)
   - [The Result](#the-result)
@@ -58,8 +57,13 @@ Before you begin, you will need the following:
 ### Anthropic Authorize Component:
 Sets the API key for the Anthropic client.
 
+<img src="https://github.com/user-attachments/assets/6fe98f7e-1cb2-4527-adee-5b5699c6ac23" alt="Anthropic Authorize" width="200" />
+
 ### Anthropic Generate Component:
 Generates text using an Anthropic model, with options to customize length and randomness.
+
+<img src="https://github.com/user-attachments/assets/3cf68c9c-859c-4e6d-a61b-dd77ea5f831f" alt="AnthropicGenerate" width="200" />
+
 
 ## Try the Examples
 
