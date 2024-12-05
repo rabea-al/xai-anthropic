@@ -15,7 +15,11 @@
 
 
 
-<p align="center"><i>Xircuits Component Library to interface with Anthropic AI! Build AI-powered solutions.</i></p>
+<p align="center"><i>Xircuits Component Library to interface with 
+Anthropic AI! Build AI-powered solutions.</i></p>
+
+---
+## Welcome to the Anthropic XAI Components Library
 
 This library allows Xircuits to use Anthropic's models for direct AI interactions. It manages API keys and simplifies executing custom text generation tasks.
 
